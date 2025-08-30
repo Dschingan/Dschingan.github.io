@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.keyboardimg",
+      "sha256_cert_fingerprints": [
+        "FB:F5:A5:22:A6:71:77:1E:53:E6:FA:59:D3:8E:DB:A3:26:A0:CF:E6:1C:B0:66:A8:9C:B7:66:E9:F0:FF:AE:D3"
+      ]
+    }
+  }
+]
